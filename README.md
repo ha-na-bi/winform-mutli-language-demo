@@ -1,4 +1,4 @@
-# winform-mutil-language-demo
+# winform-mutli-language-demo
 
 本仓库是基于 .NET Framework 的 Winform 应用的多语言示例。
 
